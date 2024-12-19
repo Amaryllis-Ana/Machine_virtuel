@@ -5,8 +5,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 h1{
     color: pink;
+}
+
+ul{
+    color: palevioletred;
+    list-style-type: none;
 }
